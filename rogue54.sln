@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rogue54", "rogue54.vcproj", "{9EA0D326-8097-4ADA-82EA-4DB1F5CAA8F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1C23D043-B375-4844-ACA0-32848BFCC987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA0D326-8097-4ADA-82EA-4DB1F5CAA8F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9EA0D326-8097-4ADA-82EA-4DB1F5CAA8F6}.Debug|Win32.Build.0 = Debug|Win32
+		{9EA0D326-8097-4ADA-82EA-4DB1F5CAA8F6}.Release|Win32.ActiveCfg = Release|Win32
+		{9EA0D326-8097-4ADA-82EA-4DB1F5CAA8F6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
